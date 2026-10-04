@@ -43,7 +43,7 @@ npm run preview
 
 ## Деплой
 
-Сайт деплоится на GitHub Pages: https://x1dg.github.io/portfolio
+Сайт деплоится на GitHub Pages: https://x1beer.github.io/about
 
 ## Структура
 
@@ -59,4 +59,4 @@ src/
 
 ## Автор
 
-Даниил Черданцев — [.NET Backend Developer](https://github.com/x1dg)
+Даниил Черданцев — [.NET Backend Developer](https://github.com/x1beer)
